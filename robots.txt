@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://AndreaGhirlanda.github.ioAndreaGhirlanda/sitemap.xml
+Sitemap: https://AndreaGhirlanda.github.io/sitemap.xml
