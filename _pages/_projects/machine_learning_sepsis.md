@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Real-Time Sepsis Detection with Machine Learning Algorithms
-permalink: /machine_learning_sepsis/
+permalink: /_projects/machine_learning_sepsis/
 ---
 #### Introduction
 
