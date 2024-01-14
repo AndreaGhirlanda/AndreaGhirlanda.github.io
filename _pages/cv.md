@@ -1,5 +1,7 @@
 ---
-layout: redirected
-permalink: /cv/
-redirect_to: https://assets/pdf/CV_AndreaGhirlanda.pdf
+layout: cv
+permalink: /assets/pdf/
+title: cv
+nav: true
+nav_order: 4
 ---
