@@ -19,5 +19,5 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am a student, currently working towards my Master's Degree in Data Science at the [Zurich Institute of Technology (ETHZ)](https://ethz.ch/en.html), after previously earning a Bachelor's Degree in Electrical Engineering and Information Technology also from ETHZ.
-I have a strong passion for machine learning and artificial intelligence, particularly in their applications within personalized medicine and, more specifically, genomics. My goal is to leverage these technologies to make meaningful contributions that positively impact people's lives.
+I have a strong passion for machine learning and artificial intelligence, particularly in their applications within personalized medicine. My goal is to leverage these technologies to make meaningful contributions that positively impact people's lives.
 In my free time I enjoy staying active through sports such as weightlifting, running, hiking, snowboarding, and ice hockey. Additionally, I like to find time to learn random things that pick my curiosity, reading, playing videogames, and playing the guitar. 
